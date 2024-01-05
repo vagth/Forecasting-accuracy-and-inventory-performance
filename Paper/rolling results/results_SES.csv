@@ -1,0 +1,2 @@
+"id","method","FT","L","target_service_level","fill_rate","service_level","mean_inventory","max_inventory","lost_sales","out_of_stock_days","inventory_days","sum_orders","count_orders","sum_demand","sum_forecasts","ME","MAE","RMSE","RMSSE","RMSsE","FD2","PL"
+"FOODS_3_160_WI","SES",3,3,0.9,0.772277227722772,0.845394736842105,7.28493150684931,18,23,5,26.3267326732673,89,15,202,154.289301920661,0.0614037298318385,0.228590419886057,0.817730965978574,0.342703142468536,3.14543049784828,0.0401488685632777,0.152412340032585
