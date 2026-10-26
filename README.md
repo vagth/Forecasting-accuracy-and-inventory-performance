@@ -1,6 +1,7 @@
 # Forecast accuracy and inventory performance
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ejor.2024.12.033-blue)](https://doi.org/10.1016/j.ejor.2024.12.033)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 R code accompanying the paper:
 
@@ -63,3 +64,7 @@ If you wish to cite the paper, please use:
   doi     = {10.1016/j.ejor.2024.12.033}
 }
 ```
+
+## License
+
+This code is released under the [MIT License](LICENSE).
